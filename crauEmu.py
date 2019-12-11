@@ -1,4 +1,8 @@
-# uEmu
+#
+# Copyright (c) Digital Security. All rights reserved.
+# Licensed under the MIT License. See LICENSE file in the project root for full license information.
+#
+
 from uEmu import *
 
 CRAUEMU_USE_AS_SCRIPT = True    # Set to `False` if you want to load crauEmu automatically as IDA Plugin
